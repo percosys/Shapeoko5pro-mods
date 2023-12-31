@@ -8,7 +8,7 @@ This repo contains a collection of modifications I have created for the Shapeoko
 ## Raised gantrys
 Raises the gantry by three inches. Particularly useful if you plan on installing an ATC Spindle. 
 
-<img src="./Raised%20Gantry/Images/reverse%20chain%20mount.png" alt="Raised Gantry" width="1280"/>
+<img src="./Mods/Raised%20Gantry/Images/reverse%20chain%20mount.png" alt="Raised Gantry" width="1280"/>
 
 ## Reverse Drag chaines 
 Reposition the drag chains so the cables come out the front of the machine when using the raised gantry mod. This particularly is useful if you are running into clearence issues when using a dust boot. 
